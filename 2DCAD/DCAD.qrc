@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/DCAD">
+        <file>C:/Users/Suraj Kedari/Desktop/icon_set/Circle.png</file>
+        <file>C:/Users/Suraj Kedari/Desktop/icon_set/line.png</file>
+        <file>C:/Users/Suraj Kedari/Desktop/icon_set/Polygone.png</file>
+        <file>C:/Users/Suraj Kedari/Desktop/icon_set/Rectangle.png</file>
+    </qresource>
+</RCC>
